@@ -1,7 +1,7 @@
 # Altitude-based-Automatic-Tiling-Algorithm-for-Small-Object-Detection
 Altitude-based-Automatic-Tiling-Algorithm-for-Small-Object-Detection
 
-![image](\C:\Users\user\Downloads\Logo_for_Git_trans.png)
+![image](\C:\Users\user\Downloads\Logo_for_Git.png)
 <!-- change the link of the logo which on your repo. -->
 
 ## The [WENS](https://wens.kumoh.ac.kr/) is a  Wireless and Emerging Network System Laboratory at the [Kumoh National Institute of Technology](https://eng.kumoh.ac.kr/) in the Republic of Korea (South Korea). 
